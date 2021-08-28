@@ -2,7 +2,7 @@ title: Mauro Cardoso
 author: mauurao
 email: geralxk@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Data Analytics Portfolio
+  Welcome to my Data Analytics Portfolio
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mauro Cardoso
-  tagline: DATA PROFESSIONAL AND ENTHUSIAST
+  tagline: DATA ANALYST
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -24,7 +24,7 @@ plainwhite:
     - post
 
   navigation:
-    - title: Stories
+    - title: Posts
       url: "/index#posts-label"
     - title: About
       url: "/about"
