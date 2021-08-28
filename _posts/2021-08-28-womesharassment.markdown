@@ -23,9 +23,9 @@ In partnership with the Marketing technician Beatriz Monteiro, an article was ca
 <div style="text-align: justify">
 The analysis of the answers to this questionnaire will serve as reflection, and awareness in order to contribute to the reduction of these occurrences.
 
-The questionnaire was submitted through question boxes and open response on the instagram platform, in which the data collected were processed and visualized through Microsoft Excel and Power BI programs.
+The questionnaire was submitted through question boxes and open response on the instagram platform, in which the data collected were processed and visualized through Microsoft Excel and Power BI programs. <br><br>
 
-**Keywords:** Analysis, harassment, reflection, awareness
+<strong>Keywords:</strong> Analysis, harassment, reflection, awareness
 </div>
 
 &ensp;
@@ -35,7 +35,7 @@ In total <strong>428 responses</strong> were collected from women, in which 61.4
 </div>
 
 <p align="center" >
-  <img src="/assets/posts/WomenHarassment/agerange.png" width="500"/>
+  <img src="/assets/posts/WomenHarassment/agerange.png" width="600"/>
 </p>
 
 &ensp;
@@ -45,7 +45,7 @@ It was visualized that <strong>73.83% of these women have already been subject t
 </div>
 
 <p align="center" >
-  <img src="/assets/posts/WomenHarassment/harassedstreet.png" width="500"/>
+  <img src="/assets/posts/WomenHarassment/harassedstreet.png" width="600"/>
 </p>
 
 &ensp;
@@ -61,7 +61,7 @@ The data exposes that most of the women surveyed faced with these situations, <s
 </div>
 
 <p align="center" >
-  <img src="/assets/posts/WomenHarassment/reaction.png" width="500"/>
+  <img src="/assets/posts/WomenHarassment/reaction.png" width="600"/>
 </p>
 
 <div style="text-align: justify">
@@ -73,7 +73,7 @@ From the various open accounts received, incorporated throughout the article, on
 </div>
 
 <blockquote>
-<q> <strong>Honestly? I feel bad…I feel like I’m not protected. 
+<q> <strong>Honestly? I feel bad…I feel like I’m not protected.<br> 
 Then my friends (men) say that if I answer I’m giving them importance.</strong> — Ruth P.</q>
 </blockquote>
 
@@ -82,7 +82,7 @@ The respondents were intentionally asked how they would identify with three expr
 </div>
 
 <p align="center" >
-  <img src="/assets/posts/WomenHarassment/justify.png" width="500"/>
+  <img src="/assets/posts/WomenHarassment/justify.png" width="600"/>
 </p>
 
 <div style="text-align: justify">
@@ -111,7 +111,7 @@ We therefore conclude that not enough has yet been done by the entities responsi
 
 <br><br>
 
-Stay Safe!
+**Stay Safe!**
 </div>
 
 <p align="center" >
@@ -123,7 +123,7 @@ Find this article on a long poster (in Portuguese), with a much stronger visual 
 
 <br><br>
 
-Get in touch with Beatriz Monteiro work too: <a href="https://www.behance.net/beatrizmonteiro14">Behance
+Get in touch with Beatriz Monteiro work too: <a href="https://www.behance.net/beatrizmonteiro14">Behance</a>.
 
 <br><br>
 
