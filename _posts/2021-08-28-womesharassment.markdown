@@ -16,8 +16,9 @@ In partnership with the Marketing technician Beatriz Monteiro, an article was ca
   <img src="/assets/posts/WomenHarassment/titulo.png" width="350"/>
 </p>
 
-
-> According to Martin Luther King Jr., an aggressor is not only the one who assaults, but also all those who consent to do nothing.
+<blockquote>
+  <p>According to Martin Luther King Jr., an aggressor is not only the one who assaults, but also all those who consent to do nothing.</p>
+</blockquote>
 
 
 <div style="text-align: justify">
