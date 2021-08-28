@@ -30,7 +30,7 @@ Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
   <img src="/assets/posts/GoogleTrends/bubble.png" width="550"/>
 </p>
 
-<p style="font-size:7pt; font-style:italic">
+<p align="center" style="font-size:7pt; font-style:italic">
 SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
 </p>
 
@@ -54,6 +54,10 @@ Portugal shows the highest peaks of interest in February 2020 (60) when Marega(P
 </div>
 
 &ensp;
+
+<p align="center">
+It's time to wrap up!!!
+</p>
 
 <p align="center" >
 . . .
