@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Google Trends - 'Racism, Portugal 2020"
+date:   2021-08-28
+categories: Racism Football Portugal
+permalink: /:title
+thumbnail: "/assets/posts/GoogleTrends/Titulo.png"
+---
+
+Google trends released its annual ‘year in search’ report. This list encompasses the most searched topics and terms globally. Inspired by a visualization by analyst Roshaan Khan, I researched one of the most highlighted words of the year, “racism”, checking the most searched phrases of 2020 and comparing it with the results of the last 5 years in Portugal.
+
+<h1 id="posts-label"></h1>
+
+*"RACISM IS VERY FASHIONABLE TODAY”. - JORGE JESUS*
+
+Clearly, many of us still remember this statement by Mister JJ (Portuguese football coach). Personally at the time I found the statement quite unfortunate, and that was the main motivation for this little analysis.
+The word racism had a huge growth in Portuguese society in 2020 compared to the previous 5 years.
+
+### Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
+
+<p align="center">
+  <img src="/assets/posts/GoogleTrends/bubble.png" />
+</p>
+
+<p style="font-size:5pt; font-style:italic">
+SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
+</p>
