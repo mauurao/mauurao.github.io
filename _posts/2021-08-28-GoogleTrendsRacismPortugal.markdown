@@ -53,12 +53,16 @@ Fig. 2 - PEAKS OF INTEREST FROM 2015 TO 2020
 Portugal shows the highest peaks of interest in February 2020 (60) when Marega(Porto Player) leaves the pitch under shouts of “monkey”, in June 2020 (100) when 46-year-old African-American George Floyd died in a detention in the USA and in December 2020 (41) when the PSG-Basaksehir match was interrupted by alleged racism of the fourth referee, leading to Jorge Jesus’ comment, the title of this theme.
 </div>
 
+&ensp;
+
 <p align="center" >
 . . .
 </p>
 
 <div style="text-align: justify">
-<h3>In conclusion</h3>, in this Google Trends measure of interest, <b>I note that racism has much more impact at the level of searches in Portugal when it is linked to football news</b>, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
+In conclusion, in this Google Trends measure of interest, <b>I note that racism has much more impact at the level of searches in Portugal when it is linked to football news</b>, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
+
+Thank you for reading.
 </div>
 
 <p align="center" >
