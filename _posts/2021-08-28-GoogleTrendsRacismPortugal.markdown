@@ -17,7 +17,7 @@ Google trends released its annual ‘year in search’ report. This list encompa
 </p>
 
 
-> "*[RACISM IS VERY FASHIONABLE TODAY”.- JORGE JESUS](https://observador.pt/2020/12/09/jorge-jesus-hoje-esta-muito-na-moda-isso-do-racismo/)*{:target="_blank"}"
+> " *[RACISM IS VERY FASHIONABLE TODAY”.- JORGE JESUS](https://observador.pt/2020/12/09/jorge-jesus-hoje-esta-muito-na-moda-isso-do-racismo/)*{:target="_blank"} "
 
 
 <div style="text-align: justify">

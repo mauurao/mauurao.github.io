@@ -5,6 +5,7 @@ date:   2021-08-16
 categories: Women Harassment Feminism Portugal
 permalink: /:title
 ---
+
 <div style="text-align: justify"> 
 In partnership with the Marketing technician Beatriz Monteiro, an article was carried out regarding a survey with the objective of analyzing the occurrence of harassment of women in the streets and their reaction. We can approach the subject from a physical or psychological point of view, and they result in problems of the same nature.
 </div>
@@ -15,12 +16,9 @@ In partnership with the Marketing technician Beatriz Monteiro, an article was ca
   <img src="/assets/posts/WomenHarassment/titulo.png" width="300"/>
 </p>
 
-
-
 <blockquote>
 <q> <strong>According to Martin Luther King Jr., an aggressor is not only the one who assaults, but also all those who consent to do nothing.</strong></q>
 </blockquote>
-
 
 <div style="text-align: justify">
 The analysis of the answers to this questionnaire will serve as reflection, and awareness in order to contribute to the reduction of these occurrences.
@@ -32,60 +30,79 @@ The questionnaire was submitted through question boxes and open response on the 
 
 &ensp;
 
+<div style="text-align: justify">
+In total <strong>428 responses</strong> were collected from women, in which 61.45% is between the age of 18 to 30 years.
+</div>
 
-
-
-
-
-
-
-
-<p align="center">
-Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
-</p>
 <p align="center" >
-  <img src="/assets/posts/GoogleTrends/bubble.png" width="550"/>
-</p>
-
-<p align="center" style="font-size:7pt; font-style:italic">
-SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
+  <img src="/assets/posts/WomenHarassment/agerange.png" width="450"/>
 </p>
 
 <div style="text-align: justify">
-This is due to the greater attention that gender issues receive by the younger generations, verifying a greater sensitivity and less tolerance towards situations of discrimination and prejudice. This year, in fact, numerous situations occurred in Portugal and throughout the world, all highlighted in prime time, with great expansion in social networks such as the “Black Lives Matter” movement, stimulating the Portuguese to feel more informed, mainly to searches such as “sos racism”, “xenophobia”, “contra racismo”, “racism what is it” and “racism definition” being quite positive, showing a great awareness and progression in the topic.
+It was visualized that <strong>73.83% of these women have already been subject to situations of harassment in the street.</strong>
 </div>
 
-&ensp;
-
-<p align="center">
-Fig. 2 - PEAKS OF INTEREST FROM 2015 TO 2020
-</p>
 <p align="center" >
-  <img src="/assets/posts/GoogleTrends/chart.png" width="650"/>
+  <img src="/assets/posts/WomenHarassment/harassedstreet.png" width="450"/>
 </p>
 
-&ensp;
+<blockquote>
+<q> <strong>I felt so uncomfortable that I started taking another street, to avoid that feeling</strong> — Daniela M.</q>
+</blockquote>
 
 <div style="text-align: justify">
-Portugal shows the highest peaks of interest in February 2020 (60) when Marega(Porto Player) leaves the pitch under shouts of “monkey”, in June 2020 (100) when 46-year-old African-American George Floyd died in a detention in the USA and in December 2020 (41) when the PSG-Basaksehir match was interrupted by alleged racism of the fourth referee, leading to Jorge Jesus’ comment, the title of this theme.
+The data exposes that most of the women surveyed faced with these situations, <strong>choose to ignore</strong>, thus it can be deduced that women are relatively accustomed, perhaps conformed, standardizing the situation unconsciously.
 </div>
 
-&ensp;
-
-<p align="center">
-It's time to wrap up!!!
+<p align="center" >
+  <img src="/assets/posts/WomenHarassment/reaction.png" width="450"/>
 </p>
+
+<div style="text-align: justify">
+As a reflection and with some research, it has been realized that this problem is somewhat ingrained in women, and there is an educational lag in approaching and reporting it.
+&ensp;
+<strong>There are numerous helplines, why is it that women do not feel supported?</strong>
+&ensp;
+From the various open accounts received, incorporated throughout the article, one notes the <strong>“traumas”</strong> in the words and an <strong>uneasy mental state in addressing these memories.</strong>
+</div>
+
+<blockquote>
+<q> <strong>Honestly? I feel bad…I feel like I’m not protected. Then my friends (men) say that if I answer I’m giving them importance.</strong> — Ruth P.</q>
+</blockquote>
+
+<div style="text-align: justify">
+The respondents were intentionally asked how they would identify with three expressions, however atypical they may be, regarding the justification of this type of behavior, heard by relatives, friends or the surrounding environment. These were: “This is normal”, “It’s in men’s nature”, “It’s because you’re beautiful”.
+</div>
+
+<p align="center" >
+  <img src="/assets/posts/WomenHarassment/justify.png" width="450"/>
+</p>
+
+<div style="text-align: justify">
+It is perceived that most ignore or normalize the situation. <br>
+Thus leaving the question, <strong>“Why?”.</strong>
+</div>
+
+<blockquote>
+<q> <strong>Lately I really feel disgusted, I feel too objectified and victimized by something that society considers to be man’s nature and normalizes it</strong> — Joana L.</q>
+</blockquote>
+
+<div style="text-align: justify">
+Therefore, we ask ourselves, <strong>is it because of fear?</strong><br>
+<strong>Women are constantly modifying their behavior in an attempt to avoid being objectified or attacked, reporting serious concerns about their personal safety whether during the day or night.</strong><br>
+Harassment is not a crime in Portugal and elsewhere in the world, however, it is possible to criminalize it through other criminal frames, for example, through the crime of stalking or offense to physical and moral integrity. Victims of harassment end up being ashamed and do not disclose these situations, imprisoning themselves in their psychological fragility, thus not advancing legally. <br>
+We therefore conclude that not enough has yet been done by the entities responsible for decision making, thus requiring a more assertive public, educational and systematic reform. <br>
+Stay Safe!
+</div>
 
 <p align="center" >
 . . .
 </p>
 
 <div style="text-align: justify">
-In conclusion, in this Google Trends measure of interest, <b>I note that racism has much more impact at the level of searches in Portugal when it is linked to football news</b>, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
+Find this article on a long poster (in Portuguese), with a much stronger visual communication at Beatriz Monteiro <a href="https://www.behance.net/gallery/125472553/MULHERES-E-O-ASSEDIO-CASE-STUDY">Behance publication</a>.
 &ensp;
-Thank you for reading.
-</div>
+Get in touch with Beatriz Monteiro work too: [Behance](https://www.behance.net/beatrizmonteiro14)<br>
 
-<p align="center" >
-. . .
-</p>
+Thank you for reading. <br>
+</div>
