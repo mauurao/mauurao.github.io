@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "WOMEN’S HARASSMENT — “IN THE STREETS” : Case Study"
+title:  "Women's Harassment — “In The Streets” : Case Study"
 date:   2021-08-16
 categories: Women Harassment Feminism Portugal
 permalink: /:title
 
 ---
-<p align="left" >
-  <img src="/assets/posts/WomenHarassment/titulo.png" width="350"/>
-</p>
+
 
 <div style="text-align: justify"> 
 In partnership with the Marketing technician Beatriz Monteiro, an article was carried out regarding a survey with the objective of analyzing the occurrence of harassment of women in the streets and their reaction. We can approach the subject from a physical or psychological point of view, and they result in problems of the same nature.
 </div>
+
+<p align="center" >
+  <img src="/assets/posts/WomenHarassment/titulo.png" width="350"/>
+</p>
+
 
 ***According to Martin Luther King Jr., an aggressor is not only the one who assaults, but also all those who consent to do nothing.***
 
