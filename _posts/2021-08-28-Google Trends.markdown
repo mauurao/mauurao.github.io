@@ -18,13 +18,9 @@ The word racism had a huge growth in Portuguese society in 2020 compared to the 
 
 ### Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
 
-
-<div align="center">
-
-  <img src="/assets/posts/GoogleTrends/bubble.png" width="200"/>
-  
-</div>
-
+<p align="center" >
+  <img src="/assets/posts/GoogleTrends/bubble.png" width="100"/>
+</p>
 
 
 <p style="font-size:5pt; font-style:italic">
