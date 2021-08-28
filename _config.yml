@@ -2,7 +2,9 @@ title: Mauro Cardoso
 author: mauurao
 email: geralxk@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  All on topics in data analysis, business intelligence, data warehouse, statistics and machine learning.
+  Results-oriented, multidisciplinary data professional and enthusiast.
+  Here you will find topics in data analysis, business intelligence,
+  data warehouse, statistics and machine learning.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mauro Cardoso
-  tagline: Data Analyst
+  tagline: Data professional and enthusiast.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar

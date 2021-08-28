@@ -5,11 +5,15 @@ title:  "About me"
 
 Hey, I'm Mauro.
 
-A multidisciplinary and results-oriented data professional and enthusiast with more than 3 years of experience developed in medium and large Information Technology companies. 
+Results-oriented, multidisciplinary data professional and enthusiast with more than 3 years of experience developed in medium and large Information Technology companies. 
 
-Currently, acting a Business Intelligence Analyst at Worten Portugal.
+MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor's Degree in Electrotechnical Engineering from Politécnico de Setúbal.
 
-This site has the purpose of showing a little bit of how I have fun and get involved with my profession.
+Currently, acting as Business Intelligence Analyst at Worten Portugal.
+
+------------------------------------------------------------------------------------------------------------
+| This site has the purpose of showing a little bit of how I have fun and get involved with my profession. |
+------------------------------------------------------------------------------------------------------------
 
 Thank you!
 
