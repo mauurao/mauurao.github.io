@@ -11,9 +11,11 @@ MSc in Integrated Decision Support Systems (Business Intelligence Systems) from 
 
 Currently, acting as Business Intelligence Analyst at Worten Portugal.
 
-------------------------------------------------------------------------------------------------------------
-| This site has the purpose of showing a little bit of how I have fun and get involved with my profession. |
-------------------------------------------------------------------------------------------------------------
+
+
+
+This site has the purpose of showing a little bit of how I have fun and get involved with my profession.
+
 
 Thank you!
 
