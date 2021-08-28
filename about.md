@@ -14,6 +14,18 @@ Currently, acting as Business Intelligence Analyst.
 
 In my free time, I enjoy reading, programming, playing on my Xbox 😜 🤓 and sleep (I badly need.. ahah).
 
+And let me tell you something to motivate you: 🙏🏽
+
+**99% of your problems can be solved by switching:**
+
+-excuses for ownership
+-toxic people with mentors 
+-junk food for nutritious food
+-bad habits with positive habits
+-cable news with reading & walks
+-perfectionism with embracing failure
+
+
 &ensp;
 &ensp;
 &ensp;
