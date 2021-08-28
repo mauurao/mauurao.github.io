@@ -16,11 +16,11 @@ Currently, acting as Business Intelligence Analyst.
 
 &ensp;
 
-In my free time, I enjoy reading, programming, playing on my Xbox 😜 🤓 and sleep (I badly need.. ahah).
+In my free time, I enjoy reading, programming, playing on my Xbox 😜 🤓  <br>
+... and sleep (I badly need.. ahah).
 
 &ensp;
-&ensp;
-&ensp;
+
 
 And let me tell you something to motivate you: 🙏🏽
 
@@ -35,8 +35,7 @@ And let me tell you something to motivate you: 🙏🏽
 
 
 &ensp;
-&ensp;
-&ensp;
+
 
 
 **Thank you!**
