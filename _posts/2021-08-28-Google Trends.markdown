@@ -9,7 +9,7 @@ thumbnail: "/assets/posts/GoogleTrends/Titulo.png"
 
 Google trends released its annual ‘year in search’ report. This list encompasses the most searched topics and terms globally. Inspired by a visualization by analyst Roshaan Khan, I researched one of the most highlighted words of the year, “racism”, checking the most searched phrases of 2020 and comparing it with the results of the last 5 years in Portugal.
 
-<h1 id="posts-label"></h1>
+
 
 *"RACISM IS VERY FASHIONABLE TODAY”. - JORGE JESUS*
 
@@ -26,4 +26,3 @@ The word racism had a huge growth in Portuguese society in 2020 compared to the 
 SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
 </p>
 
-<h1 id="posts-label"></h1>
