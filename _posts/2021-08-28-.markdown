@@ -25,3 +25,5 @@ The word racism had a huge growth in Portuguese society in 2020 compared to the 
 <p style="font-size:5pt; font-style:italic">
 SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
 </p>
+
+<h1 id="posts-label"></h1>
