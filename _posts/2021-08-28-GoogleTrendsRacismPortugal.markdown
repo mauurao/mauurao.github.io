@@ -7,8 +7,8 @@ permalink: /:title
 
 ---
 
-<p align="center" >
-  <img src="/assets/posts/GoogleTrends/Titulo.png" width="400"/>
+<p>
+  <img src="/assets/posts/GoogleTrends/Titulo.png" width="350"/>
 </p>
 
 <div style="text-align: justify"> 
