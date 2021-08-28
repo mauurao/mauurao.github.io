@@ -14,8 +14,8 @@ Google trends released its annual ‘year in search’ report. This list encompa
 Clearly, many of us still remember this statement by Mister JJ (Portuguese football coach). Personally at the time I found the statement quite unfortunate, and that was the main motivation for this little analysis.
 The word racism had a huge growth in Portuguese society in 2020 compared to the previous 5 years.
 
-<p align="center" >
-#### Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
+<p align="center" style="font-size:5pt; font-style:bold">
+Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
 </p>
 <p align="center" >
   <img src="/assets/posts/GoogleTrends/bubble.png" width="650"/>
