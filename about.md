@@ -9,7 +9,7 @@ Results-oriented, multidisciplinary data professional and enthusiast with more t
 
 MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor's Degree in Electrotechnical Engineering from Politécnico de Setúbal.
 
-Currently, acting as Business Intelligence Analyst at Worten Portugal.
+Currently, acting as Business Intelligence Analyst.
 
 &ensp;
 &ensp;
