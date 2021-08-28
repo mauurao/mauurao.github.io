@@ -2,7 +2,7 @@ title: Mauro Cardoso
 author: mauurao
 email: geralxk@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Multidisciplinary and results-driven data professional with over 3 years of experience developed in medium and large Information Technology companies.
+  All on topics in data analysis, business intelligence, data warehouse, statistics and machine learning.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -24,15 +24,15 @@ plainwhite:
     - post
 
   navigation:
-    - title: Publications
+    - title: Stories
       url: "/index#posts-label"
-    - title: About me
+    - title: About
       url: "/about"
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  mauurao
     linkedIn: in/maurocardoso94
+    github:  mauurao
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
