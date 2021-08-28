@@ -109,10 +109,12 @@ Harassment is not a crime in Portugal and elsewhere in the world, however, it is
 
 We therefore conclude that not enough has yet been done by the entities responsible for decision making, thus requiring a more assertive public, educational and systematic reform. 
 
-<br><br>
+<br><br><br>
 
-**Stay Safe!**
+<strong>Stay Safe!</strong>
 </div>
+
+&ensp;
 
 <p align="center" >
 . . .
@@ -127,7 +129,7 @@ Get in touch with Beatriz Monteiro work too: <a href="https://www.behance.net/be
 
 <br><br>
 
-Thank you for reading.
+<strong>Thank you for reading.</strong>
 </div>
 
 <p align="center" >
