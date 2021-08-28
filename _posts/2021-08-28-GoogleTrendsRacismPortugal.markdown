@@ -10,7 +10,9 @@ permalink: /:title
 Google trends released its annual ‘year in search’ report. This list encompasses the most searched topics and terms globally. Inspired by a visualization by analyst Roshaan Khan, I researched one of the most highlighted words of the year, “racism”, checking the most searched phrases of 2020 and comparing it with the results of the last 5 years in Portugal.
 </div>
 
-<p align="center">
+&ensp;
+
+<p align="left">
   <img src="/assets/posts/GoogleTrends/Titulo.png" width="350"/>
 </p>
 

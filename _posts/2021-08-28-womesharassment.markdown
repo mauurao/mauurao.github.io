@@ -6,13 +6,13 @@ categories: Women Harassment Feminism Portugal
 permalink: /:title
 
 ---
-
-
 <div style="text-align: justify"> 
 In partnership with the Marketing technician Beatriz Monteiro, an article was carried out regarding a survey with the objective of analyzing the occurrence of harassment of women in the streets and their reaction. We can approach the subject from a physical or psychological point of view, and they result in problems of the same nature.
 </div>
 
-<p align="center" >
+&ensp;
+
+<p align="left" >
   <img src="/assets/posts/WomenHarassment/titulo.png" width="350"/>
 </p>
 
