@@ -22,12 +22,17 @@ plainwhite:
     #- home
     - page
     - post
+    
+  navigation:
+    - title: Stories
+      url: "/index#posts-label"
+    - title: About
+      url: "/about"
   # generate social links in footer
   social_links:
     #twitter: samarsault
     github:  mauurao
     linkedIn: in/maurocardoso94
-    kaggle: maurocardoso
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
