@@ -1,27 +1,39 @@
 ---
 layout: post
-title:  "Google Trends - 'Racism, Portugal 2020"
-date:   2020-12-22
-categories: Racism Football Portugal
+title:  "WOMEN’S HARASSMENT — “IN THE STREETS” : Case Study"
+date:   2021-08-16
+categories: Women Harassment Feminism Portugal
 permalink: /:title
 
 ---
+<p align="left" >
+  <img src="/assets/posts/WomenHarassment/titulo.png" width="350"/>
+</p>
+
 <div style="text-align: justify"> 
-Google trends released its annual ‘year in search’ report. This list encompasses the most searched topics and terms globally. Inspired by a visualization by analyst Roshaan Khan, I researched one of the most highlighted words of the year, “racism”, checking the most searched phrases of 2020 and comparing it with the results of the last 5 years in Portugal.
+In partnership with the Marketing technician Beatriz Monteiro, an article was carried out regarding a survey with the objective of analyzing the occurrence of harassment of women in the streets and their reaction. We can approach the subject from a physical or psychological point of view, and they result in problems of the same nature.
 </div>
 
-
-
-*[RACISM IS VERY FASHIONABLE TODAY”.- JORGE JESUS](https://observador.pt/2020/12/09/jorge-jesus-hoje-esta-muito-na-moda-isso-do-racismo/)*{:target="_blank"}
-
+***According to Martin Luther King Jr., an aggressor is not only the one who assaults, but also all those who consent to do nothing.***
 
 
 <div style="text-align: justify">
-Clearly, many of us still remember this statement by Mister JJ (Portuguese football coach). Personally at the time I found the statement quite unfortunate, and that was the main motivation for this little analysis.
-The word racism had a huge growth in Portuguese society in 2020 compared to the previous 5 years.
+The analysis of the answers to this questionnaire will serve as reflection, and awareness in order to contribute to the reduction of these occurrences.
+
+The questionnaire was submitted through question boxes and open response on the instagram platform, in which the data collected were processed and visualized through Microsoft Excel and Power BI programs.
+
+**Keywords:** Analysis, harassment, reflection, awareness
 </div>
 
 &ensp;
+
+
+
+
+
+
+
+
 
 <p align="center">
 Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
