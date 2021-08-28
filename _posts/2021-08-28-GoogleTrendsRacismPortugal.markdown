@@ -6,13 +6,11 @@ categories: Racism Football Portugal
 permalink: /:title
 
 ---
-&ensp;
-
 <div style="text-align: justify"> 
 Google trends released its annual ‘year in search’ report. This list encompasses the most searched topics and terms globally. Inspired by a visualization by analyst Roshaan Khan, I researched one of the most highlighted words of the year, “racism”, checking the most searched phrases of 2020 and comparing it with the results of the last 5 years in Portugal.
 </div>
 
-*[RACISM IS VERY FASHIONABLE TODAY”.- JORGE JESUS](https://observador.pt/2020/12/09/jorge-jesus-hoje-esta-muito-na-moda-isso-do-racismo/)*
+*[RACISM IS VERY FASHIONABLE TODAY”.- JORGE JESUS](https://observador.pt/2020/12/09/jorge-jesus-hoje-esta-muito-na-moda-isso-do-racismo/)*{:target="_blank"}
 
 <div style="text-align: justify">
 Clearly, many of us still remember this statement by Mister JJ (Portuguese football coach). Personally at the time I found the statement quite unfortunate, and that was the main motivation for this little analysis.
@@ -55,13 +53,9 @@ Portugal shows the highest peaks of interest in February 2020 (60) when Marega(P
 . . .
 </p>
 
-&ensp;
-
 <div style="text-align: justify">
-In conclusion, in this Google Trends measure of interest, **I note that racism has much more impact at the level of searches in Portugal when it is linked to football news**, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
+In conclusion, in this Google Trends measure of interest, <b>I note that racism has much more impact at the level of searches in Portugal when it is linked to football news</b>, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
 </div>
-
-&ensp;
 
 <p align="center" >
 . . .
