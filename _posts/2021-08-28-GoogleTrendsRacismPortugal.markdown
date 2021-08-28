@@ -14,13 +14,12 @@ Google trends released its annual ‘year in search’ report. This list encompa
 Clearly, many of us still remember this statement by Mister JJ (Portuguese football coach). Personally at the time I found the statement quite unfortunate, and that was the main motivation for this little analysis.
 The word racism had a huge growth in Portuguese society in 2020 compared to the previous 5 years.
 
-<p align="center" style="font-size:5pt; font-style:bold">
+<p align="left" style="font-size:10pt">
 Fig. 1 - THE MOST SEARCHED TOPIC IN PORTUGAL
 </p>
-<p align="center" >
-  <img src="/assets/posts/GoogleTrends/bubble.png" width="650"/>
+<p align="left" >
+  <img src="/assets/posts/GoogleTrends/bubble.png" width="500"/>
 </p>
-
 
 <p style="font-size:7pt; font-style:italic">
 SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND VALUE OF 50 IS A TOPIC SEARCHED HALF AS OFTEN AS THE MOST POPULAR TERMN AND SO ON.
@@ -28,7 +27,7 @@ SIZE IS ON A RELATIVE SCALE, WHERE A VALUE OF 100 IS THE MOST SEARCHED TOPIC AND
 
 This is due to the greater attention that gender issues receive by the younger generations, verifying a greater sensitivity and less tolerance towards situations of discrimination and prejudice. This year, in fact, numerous situations occurred in Portugal and throughout the world, all highlighted in prime time, with great expansion in social networks such as the “Black Lives Matter” movement, stimulating the Portuguese to feel more informed, mainly to searches such as “sos racism”, “xenophobia”, “contra racismo”, “racism what is it” and “racism definition” being quite positive, showing a great awareness and progression in the topic.
 
-<p align="center" >
+<p align="center" style="font-size:10pt">
 #### Fig. 2 - PEAKS OF INTEREST FROM 2015 TO 2020
 </p>
 <p align="center" >
