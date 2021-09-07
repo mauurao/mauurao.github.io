@@ -69,7 +69,7 @@ It's time to wrap up!!!
 
 <div style="text-align: justify">
 In conclusion, in this Google Trends measure of interest, <b>I note that racism has much more impact at the level of searches in Portugal when it is linked to football news</b>, leaving in question if our increasingly technological society is aware of this reality and if it assumes the evident existence of interpersonal, institutional and structural racism and the need to draw concrete public policies to fight it.
-&ensp;
+<br>
 Thank you for reading.
 </div>
 
