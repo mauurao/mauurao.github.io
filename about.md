@@ -36,9 +36,13 @@ And let me tell you something to motivate you: 🙏🏽
 
 &ensp;
 
-
-
 **Thank you!**
+
+<p>Download my CV:<p>
+
+<a href="/assets/resume.pdf" download>
+  <img src="/assets/cv.png" alt="W3Schools" width="200" height="200">
+</a>
 
 <h1 id="posts-label"></h1>
 
