@@ -2,6 +2,7 @@
 layout: about
 title:  "About me"
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 **Hey, I'm Mauro**. <br>
 **This site has the purpose of showing a little bit of how I have fun and get involved with my profession.**
@@ -40,7 +41,13 @@ And let me tell you something to motivate you: 🙏🏽
 
 &ensp;
 
-<p>You can download my CV here:<p>
+<p>Visit my Linkedin::</p>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maurocardoso94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/maurocardoso94?trk=profile-badge">Mauro Cardoso</a></div>
+
+&ensp;
+              
+<p>You can download my CV here:</p>
 
 <a href="/assets/resume.pdf" download>
   <img src="/assets/cv.png" alt="MauroResume" width="100" height="100">
