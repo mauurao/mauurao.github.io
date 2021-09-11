@@ -41,9 +41,9 @@ And let me tell you something to motivate you: 🙏🏽
 
 &ensp;
 
-<p>Visit my Linkedin::</p>
+<p>Follow me at Linkedin::</p>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maurocardoso94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/maurocardoso94?trk=profile-badge"></a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="small" data-theme="light" data-type="VERTICAL" data-vanity="maurocardoso94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/maurocardoso94?trk=profile-badge"></a></div>
      
 <p>You can download my CV here:</p>
 
