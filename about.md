@@ -38,10 +38,12 @@ And let me tell you something to motivate you: 🙏🏽
 
 **Thank you!**
 
-<p>Download my CV:<p>
+&ensp;
+
+<p>You can download my CV here:<p>
 
 <a href="/assets/resume.pdf" download>
-  <img src="/assets/cv.png" alt="W3Schools" width="200" height="200">
+  <img src="/assets/cv.png" alt="MauroResume" width="100" height="100">
 </a>
 
 <h1 id="posts-label"></h1>
