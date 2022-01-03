@@ -1,4 +1,4 @@
 ---
 layout: home
-thumbnail: "assets/mauuraodotcom.jpg"
+thumbnail: "assets/mauuraodot.jpg"
 ---
