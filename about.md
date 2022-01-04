@@ -13,27 +13,11 @@ Results-oriented, multidisciplinary data professional and enthusiast with more t
 
 MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor's Degree in Electrotechnical Engineering from Politécnico de Setúbal.
 
-Currently, acting as Business Intelligence Developer.
 
 &ensp;
 
 In my free time, I enjoy reading, programming, playing on my Xbox 😜 🤓  <br>
 ... and sleep (I badly need.. ahah).
-
-&ensp;
-
-
-And let me tell you something to motivate you: 🙏🏽
-
-**99% of your problems can be solved by switching:**
-
-- excuses for ownership <br>
-- toxic people with mentors <br>
-- junk food for nutritious food <br>
-- bad habits with positive habits <br>
-- cable news with reading & walks <br>
-- perfectionism with embracing failure <br>
-
 
 &ensp;
 
