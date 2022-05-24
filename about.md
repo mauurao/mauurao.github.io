@@ -11,7 +11,7 @@ title:  "About me"
 
 Results-oriented, multidisciplinary data professional and enthusiast with more than 3 years of experience developed in medium and large Information Technology companies. 
 
-MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor's Degree in Electrotechnical Engineering from Politécnico de Setúbal.
+MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor's Degree in Electrotechnical and Computers Engineering from Politécnico de Setúbal.
 
 
 &ensp;
